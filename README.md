@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi, my name is Abdul Rafay. I am a passionate Computer Science student currently learning front-end development.  I enjoy building real-world projects, solving challenging problems, and exploring new technologies. I am constantly learning and contributing to open-source projects to improve my skills and share knowledge with the community. My interests include web development, analyzing code, debugging skills, and creating digital solutions that make tasks easier and more efficient. I believe in clean code, continuous learning, and collaborating with like-minded developers to grow together. Always open to exciting projects, collaboration, and new opportunities.
+✅ I'm currently learning
+"Front-end Development with React & Next.js"
+"Advanced JavaScript & Web Development"
+
+✅ I'm looking to collaborate on
+"React & Next.js Projects"
+"Interactive Web Apps & Games"
+"Open Source Contributions"
+
+✅ Ask me about
+"Tic-Tac-Toe Game & JavaScript Basics"
+"Front-end Development & GitHub Pages"
+
+✅ Fun fact
+"I love building interactive games and web apps!"
+"Passionate about learning new tech and coding daily."
 
 
 ## 🌐 Socials:
