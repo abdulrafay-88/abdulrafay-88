@@ -1,20 +1,28 @@
 ✅ I'm currently learning
+
 "Front-end Development with React & Next.js"
+
 "Advanced JavaScript & Web Development"
 
 ✅ I'm looking to collaborate on
+
 "React & Next.js Projects"
+
 "Interactive Web Apps & Games"
+
 "Open Source Contributions"
 
 ✅ Ask me about
+
 "Tic-Tac-Toe Game & JavaScript Basics"
+
 "Front-end Development & GitHub Pages"
 
 ✅ Fun fact
-"I love building interactive games and web apps!"
-"Passionate about learning new tech and coding daily."
 
+"I love building interactive games and web apps!"
+
+"Passionate about learning new tech and coding daily."
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ar1784120@gmail.com) 
